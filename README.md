@@ -1,2 +1,2 @@
 # WhatsApp-Chat-Stats-Analyzer
-WhatsApp Chat Stats Analyzer
+WhatsApp Chat Stats Analyzer is a python module that can actually give the stats of the whats app on the different topics we want to look at. Tells about the chats happened, documents, images shared. It has a lot to be added features still..  In progress... 
